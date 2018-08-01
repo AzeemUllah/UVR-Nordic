@@ -1,0 +1,3 @@
+my.ini > max_allowed_packet & innodb_log_file_size
+
+php.ini > upload_max_filesize = 10M & post_max_size = 10M
